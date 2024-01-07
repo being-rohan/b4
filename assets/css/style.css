@@ -89,10 +89,9 @@
 }
 
 body {
-    /* font-family: 'Roboto', sans-serif; */
     font-family: 'Roboto', sans-serif;
-    font-family: 'Rubik Glitch', system-ui;
 }
+ 
 
 /* bgimage  */
 .bgiamge {
@@ -118,6 +117,7 @@ body {
 
     background-image: url(https://media.istockphoto.com/id/122204403/photo/binary-code.webp?b=1&s=170667a&w=0&k=20&c=lj2aI_pTdmmvzCotEevItyG1twtzq-BBJe-7KFxHdQU=);
     background-position: center;
+    background-size: cover;
     /* background-repeat: no-repeat; */
     background-attachment: fixed;
     position: relative;
